@@ -1,6 +1,6 @@
 # Table of contents
 
-* [舒克重制](README.md)
+* [舒克万事屋](README.md)
 
 ## 咕噜咕噜 <a id="a-cup"></a>
 
