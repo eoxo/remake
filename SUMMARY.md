@@ -2,7 +2,7 @@
 
 * [舒克重制](README.md)
 
-## 咕噜咕噜（按首字母排序） <a id="a-cup"></a>
+## 咕噜咕噜 <a id="a-cup"></a>
 
 * [Facebook](a-cup/facebook.md)
 * [Gmail](a-cup/gmail.md)
