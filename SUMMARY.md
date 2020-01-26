@@ -1,6 +1,6 @@
 # Table of contents
 
-* [舒克什么都知道](README.md)
+* [汤姆什么都知道](README.md)
 
 ## 咕噜咕噜 <a id="a-cup"></a>
 
