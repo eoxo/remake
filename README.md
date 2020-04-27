@@ -14,8 +14,6 @@ description: © 2020 Shuke
 
 因为涉及的领域太广泛，好些都需要查证，所有内容都在持续更新中。
 
-我的邮箱：eirs\#pm.me（需替换为@）
-
 ![](.gitbook/assets/0081lv8bly1gb80zi562jj30g00dbjyo.jpg)
 
 所有账号原则上是不退的哈~，已售账号当天23:59自动清空存档；
